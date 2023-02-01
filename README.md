@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Suuny%20GitHub!&fontSize=90)
 
 # Skils
@@ -25,3 +26,4 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soret36.github.io//)](https://soret36.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soret55@gmail.com)](mailto:soret55@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:fild2005@naver.com)](mailto:fild2005@naver.com)
+</div>
