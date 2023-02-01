@@ -12,7 +12,7 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20IDEA-00000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&=logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&=logoColor=white)
 
 # Stat
 ### Solved.ac
